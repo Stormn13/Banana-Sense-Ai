@@ -1,1 +1,4 @@
 backend/storage/
+__pycache__/
+*.pyc
+.commandcode/
